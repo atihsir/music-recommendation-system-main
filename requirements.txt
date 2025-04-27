@@ -2,7 +2,7 @@ streamlit==1.26.0
 pandas
 numpy
 scikit-learn
-Pillow
+Pillow==9.5.0
 matplotlib
 seaborn
 plotly
